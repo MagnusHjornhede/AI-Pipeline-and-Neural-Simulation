@@ -1,4 +1,4 @@
-# AI-Pipeline-and-Neural-Simulation
+# Pipeline-and-Neural-Simulation
 
 ---
 
