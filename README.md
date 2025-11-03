@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository about **machine learning preprocessing** and **biophysical neuron simulation**  
+This repository is about **machine learning preprocessing** and **biophysical neuron simulation**  
 into a single experimental framework — from *gesture data normalization* to *membrane potential dynamics*.
 
 <p align="center">
