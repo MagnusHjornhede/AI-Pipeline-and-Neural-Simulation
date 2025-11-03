@@ -28,11 +28,13 @@ into a single experimental framework — from *gesture data normalization* to *m
 
 #### Feature Distributions
 
-| Raw Data | 
-|:---------:|
-| <img src="plots/BoxPlot1-60.png" width="360"/> |
+<p align="center">
+  <img src="plots/BoxPlot1-60.png" width="720"/> 
+</p>
 
-*(unscaled feature clusters)*
+<p align="center">
+ unscaled feature clusters
+</p>
 
 ---
 
@@ -42,14 +44,19 @@ into a single experimental framework — from *gesture data normalization* to *m
   <img src="plots/BoxPlot60-120.png" alt="Cosine Angles Boxplot" width="720"/>
 </p>
 
-Visualizing angular relationships between gestures — these cosine-derived features  
-represent the *geometric consistency* of the recorded hand trajectories.
+<p align="center">
+  Visualizing angular relationships between gestures — these cosine-derived features represent the *geometric consistency* of the recorded hand trajectories.
+</p>
+
 
 <p align="center">
   <img src="plots/BoxPlot120-180.png" alt="Mean Positions Boxplot" width="720"/>
 </p>
 
-Mean and standard-deviation feature groups (below) quantify stability and variation.
+<p align="center">
+  Mean and standard-deviation feature groups (below) quantify stability and variation.
+</p>
+
 
 <p align="center">
   <img src="plots/BoxPlot180-240.png" alt="STD Positions Boxplot" width="720"/>
