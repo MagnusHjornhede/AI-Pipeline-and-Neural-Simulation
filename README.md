@@ -1,12 +1,10 @@
 # AI-Pipeline-and-Neural-Simulation
 
-> A hands-on exploration of how artificial intelligence pipelines and biologically inspired neuron models can coexist in the same experimental space.
-
 ---
 
 ## Overview
 
-This repository unifies **machine learning preprocessing** and **biophysical neuron simulation**  
+This repository about **machine learning preprocessing** and **biophysical neuron simulation**  
 into a single experimental framework — from *gesture data normalization* to *membrane potential dynamics*.
 
 <p align="center">
