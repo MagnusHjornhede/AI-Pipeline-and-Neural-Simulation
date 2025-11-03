@@ -28,11 +28,11 @@ into a single experimental framework — from *gesture data normalization* to *m
 
 #### Feature Distributions
 
-| Raw Data | After Normalization |
-|:---------:|:------------------:|
-| <img src="plots/BoxPlot1-60.png" width="360"/> | <img src="plots/BoxPlotAll.png" width="360"/> |
+| Raw Data | 
+|:---------:|
+| <img src="plots/BoxPlot1-60.png" width="360"/> |
 
-*(Left: unscaled feature clusters; Right: normalized feature set.)*
+*(unscaled feature clusters)*
 
 ---
 
