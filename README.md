@@ -14,8 +14,6 @@ The goal is to connect **practical ML workflows** with **biologically inspired c
 
 This repository contains two independent but related components.
 
-This repository contains two independent but related components.
-
 ### 1. Gesture Data Pipeline
 
 A preprocessing pipeline for structured gesture datasets, focusing on feature organization, scaling, and diagnostics.
